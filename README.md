@@ -5,7 +5,7 @@ Portfólio — Enzo Bastos
 
 Bem-vindo(a) ao meu portfólio! Aqui você encontrará uma seleção dos meus projetos acadêmicos e pessoais, desenvolvidos com foco em aprendizado contínuo, boas práticas e evolução profissional.
 
-Sobre mim
+---Sobre mim
 
 Formação: Cursando Engenharia de Software
 
@@ -15,7 +15,7 @@ Localização: Brasil - Brasília
 
 Contato: enzobastos25@gmail.com
 
-Habilidades
+---Habilidades
 
 Linguagens: Java, Python, JavaScript, SQL
 
@@ -25,12 +25,12 @@ Banco de Dados: MySQL e SQLServer
 
 Outros: Metodologias Ágeis, Versionamento, APIs
 
-Projetos em Destaque
+---Projetos em Destaque
 Projeto 1
 
 ...
 
 
-Objetivo
+---Objetivo
 
 Este portfólio tem como objetivo registrar minha jornada na tecnologia e demonstrar minhas habilidades técnicas, capacidade de aprendizado e evolução profissional
